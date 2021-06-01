@@ -73,7 +73,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 5. Una vez abierto el nuevo registro, seleccione la flecha desplegable junto al campo **Razón de estado** en la cabecera del registro, en la parte superior. 
 
-6. En el campo **Nombre** escriba** Seguridad en el hogar – Sus iniciales**. 
+6. En el campo **Nombre** escriba **Seguridad en el hogar – Sus iniciales**. 
 
 7. En el campo **Asunto** escriba el texto **Mantenga a su familia a salvo**.
 

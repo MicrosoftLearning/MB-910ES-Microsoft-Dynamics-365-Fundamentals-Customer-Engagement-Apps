@@ -67,5 +67,5 @@ Módulo 4: Descubrir los fundamentos de Dynamics 365 Field Service
 
 21. Haga clic en el cuadro de búsqueda de recursos del tablero de programación (ubicado justo encima de la columna del nombre del recurso), escriba Ryan y localice la orden de trabajo programada para Ryan hoy más tarde. 
 
-22. Haga clic con el botón derecho en la orden de trabajo y, en el menú que aparece, seleccione **Sustituir recurso** y, después, **Encontrar sustitución** **.**
+22. Haga clic con el botón derecho en la orden de trabajo y, en el menú que aparece, seleccione **Sustituir recurso** y, después, **Encontrar sustitución**.
 

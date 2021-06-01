@@ -198,7 +198,7 @@ Ahora que hemos calificado con éxito el cliente potencial como una oportunidad,
 
 13. En el menú que aparece, seleccione **Cita**.
 
-14. En **Creación rápida: **En la pantalla de **Cita**, complete lo siguiente:
+14. En **Creación rápida:** En la pantalla de **Cita**, complete lo siguiente:
 
 	- **Asunto:** Cita rápida – “Sus iniciales”
 

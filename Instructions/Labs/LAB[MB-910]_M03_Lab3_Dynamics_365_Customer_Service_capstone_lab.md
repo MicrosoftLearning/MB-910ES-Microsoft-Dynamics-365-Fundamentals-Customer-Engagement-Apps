@@ -292,11 +292,11 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
 Ahora que hemos identificado una solución al problema del cliente, podremos resolver el caso. El primer paso para cerrar un caso es cerrar todas las actividades abiertas asociadas con el mismo. 
 
-1. En la **escala de tiempo **del caso, mantenga el puntero sobre **la tarea de investigar el problema de Piper** que creó anteriormente.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
+1. En la **escala de tiempo** del caso, mantenga el puntero sobre **la tarea de investigar el problema de Piper** que creó anteriormente. Seleccione el icono de **la marca de verificación** para completar la actividad. 
 
 2. En la pantalla **Cerrar tarea**, compruebe que el estado es completado y seleccione el botón **Cerrar**. El estado de la tarea debería ser **Cerrado**. 
 
-3. Mantenga el puntero sobre **Devolver la llamada a Piper** que creó anteriormente**.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
+3. Mantenga el puntero sobre **Devolver la llamada a Piper** que creó anteriormente. Seleccione el icono de **la marca de verificación** para completar la actividad. 
 
 4. En la pantalla **Cerrar llamada de teléfono**, compruebe que los **Estados** son **Completado** y **Hecho**. Seleccione el botón **Cerrar**. Compruebe que la actividad aparece como cerrada en la escala de tiempo. 
 
@@ -304,7 +304,7 @@ Ahora que hemos identificado una solución al problema del cliente, podremos res
 
 6. En la etapa **Resolver**, seleccione el botón **Finalizar** para completar el flujo del proceso. 
 
-7. En la **Barra de comandos **del caso, seleccione **Resolver caso**.
+7. En la **Barra de comandos** del caso, seleccione **Resolver caso**.
 
 8. En la ventana **Resolver caso**, establezca el campo **Resolución** en **Artículo de conocimiento**. 
 

@@ -22,7 +22,7 @@ Durante este ejercicio, verá que es muy fácil acceder a las diferentes aplicac
 
 En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones de Dynamics 365 Customer Engagement mediante la página de inicio de Dynamics 365. 
 
-1. En su navegador, entre en [**https://home.dynamics.com**](https://home.dynamics.com/)** Se mostrarán todas las aplicaciones a las que tiene acceso. 
+1. En su navegador, entre en [**https://home.dynamics.com**](https://home.dynamics.com/). Se mostrarán todas las aplicaciones a las que tiene acceso. 
 
 2. Para reducir el número de aplicaciones mostradas, seleccione el **icono de filtro** situado junto al botón Obtener más aplicaciones. 
 
