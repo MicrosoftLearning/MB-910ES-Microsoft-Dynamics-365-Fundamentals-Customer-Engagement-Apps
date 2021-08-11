@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: 'Laboratorio 5.1: Crear un cliente potencial basado en proyecto'
+    title: 'Laboratorio 5.1: Crear un cliente potencial basado en proyecto'
     module: 'Módulo 5: Aprender los fundamentos de Dynamics 365 Project Operations'
 ---
 
-Módulo 5: Descubrir los fundamentos de Dynamics 365 Project Operations
+Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
 ========================
 
 ## Laboratorio de prácticas 5.1: Crear un cliente potencial basado en proyecto
@@ -54,23 +54,27 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 10 minutos
+  - **Tiempo estimado**: 10 minutos
 
 ## Instrucciones
 
 ## Ejercicio 1: Crear un cliente potencial basado en proyecto
 
-### Tarea 1: Crear un nuevo cliente potencial
+### Tarea 1: Crear un nuevo cliente potencial
 
 1. Si es necesario, abra el navegador InPrivate y acceda a [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
 2. Cuando se le pida, escriba las credenciales proporcionadas por el instructor. 
 
-3. De la lista de aplicaciones que aparece, seleccione **Project Operations**. **(Nota:** Puede que aparezca como Project Service)
+3. De la lista de aplicaciones que aparece, seleccione **Project Service**. 
 
-4. En el panel izquierdo de la pantalla, seleccione el área **Proyectos**. 
+4. Si no aparece Project Service, visite trials.dynamics.com e instale la versión de prueba de la aplicación. 
 
-5. En el menú que aparece, seleccione **Ventas**.
+	- Correo electrónico del trabajo: correo electrónico del inquilino. 
+
+	- Número de teléfono: teléfono móvil
+
+5. En el panel izquierdo de la pantalla, seleccione el área **Ventas**. 
 
 6. Con la navegación, seleccione **Clientes potenciales**. 
 
@@ -132,7 +136,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 	- **Descripción:** Conversación inicial con Jean para determinar la calificación inicial. 
 
-17. Haga clic en el botón **Guardar y cerrar**.
+17. Seleccione el botón **Guardar y cerrar**.
 
 18. Observe que la actividad **Llamada de teléfono inicial** aparece ahora en la **Escala de tiempo del registro**. Mantenga el puntero sobre la actividad y seleccione el **icono de marca de verificación** de cierre de actividad para marcar la llamada de teléfono como completada. 
 
@@ -140,7 +144,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
  
 
-### Tarea 2: Calificar el cliente potencial y convertirlo en oportunidad para su calificación futura
+### Tarea 2: Calificar el cliente potencial y convertirlo en oportunidad para su calificación futura
 
 1. En la **Barra de comandos**, seleccione el botón **Calificar**. 
 

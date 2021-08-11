@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: 'Laboratorio 2.1: Crear y administrar un cliente potencial en Dynamics 365 Sales'
+    title: 'Laboratorio 2.1: Crear y administrar un cliente potencial en Dynamics 365 Sales'
     module: 'Módulo 2: Aprender los fundamentos de Dynamics 365 Sales'
 ---
 
-Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
+Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
 ========================
 
 ## Laboratorio de prácticas 2.1: Crear y administrar un cliente potencial en Dynamics 365 Sales
@@ -20,7 +20,7 @@ Durante este ejercicio, conseguirá un cliente potencial para Suzanne Burke. Ell
 
 ## Instrucciones
 
-1. Si aún no lo ha hecho, abra la aplicación **Centro de ventas de Dynamics 365**. 
+1. Si aún no lo ha hecho, abra la aplicación **Centro de ventas de Dynamics 365**. 
 
 2. Con la navegación de la parte izquierda de la pantalla, seleccione **Clientes potenciales**. 
 
@@ -77,5 +77,3 @@ Durante este ejercicio, conseguirá un cliente potencial para Suzanne Burke. Ell
 13. A continuación, calificará el registro del cliente potencial. Esto creará un registro de oportunidad relacionado y pasará a la siguiente etapa del proceso de ventas cliente potencial a oportunidad. En la **Barra de comandos**, seleccione el botón **Calificar**. 
 
 14. Una vez que el sistema califica al cliente potencial, se creará un nuevo registro de oportunidad y el proceso comercial avanzará a la etapa **Desarrollar**. Seleccione la etapa **Calificar** para ver el registro de cliente potencial original. 
-
-15. Seleccione la etapa **Desarrollar** para volver a la oportunidad.

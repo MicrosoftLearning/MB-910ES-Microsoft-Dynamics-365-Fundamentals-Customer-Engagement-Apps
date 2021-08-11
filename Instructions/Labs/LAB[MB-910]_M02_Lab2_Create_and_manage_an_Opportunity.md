@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: 'Laboratorio 2.2: Crear y administrar una oportunidad en Dynamics 365 Sales'
+    title: 'Laboratorio 2.2: Crear y administrar una oportunidad en Dynamics 365 Sales'
     module: 'Módulo 2: Aprender los fundamentos de Dynamics 365 Sales'
 ---
 
-Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
+Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
 ========================
 
 ## Laboratorio de prácticas 2.2: Crear y administrar una oportunidad en Dynamics 365 Sales 
@@ -32,9 +32,9 @@ En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones 
 
 	- **Tema:** Quiere actualizar su equipo actual – Sus iniciales
 
-	- **Cuenta:** Adventure Works
+	- **Contacto:** Jay Klein
 
-	- **Contacto:** Jim Glynn
+	- **Cuenta:** Northwind Traders
 
 	- **Calendario de compra:** Este trimestre
 

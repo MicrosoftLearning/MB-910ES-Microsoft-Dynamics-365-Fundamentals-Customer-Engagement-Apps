@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: 'Laboratorio 1.2: Trabajar con aplicaciones de interacción con el cliente'
+    title: 'Laboratorio 1.2: Trabajar con aplicaciones de interacción con el cliente'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
 ---
 
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
 ========================
 
 ## Laboratorio de prácticas 1.2: Trabajar con aplicaciones de interacción con el cliente 
@@ -22,7 +22,7 @@ Durante este ejercicio, verá que es muy fácil acceder a las diferentes aplicac
 
 En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones de Dynamics 365 Customer Engagement mediante la página de inicio de Dynamics 365. 
 
-1. En su navegador, entre en [**https://home.dynamics.com**](https://home.dynamics.com/). Se mostrarán todas las aplicaciones a las que tiene acceso. 
+1. En su navegador, vaya a **[https://home.dynamics.com](https://home.dynamics.com/)** Se mostrarán todas las aplicaciones a las que tiene acceso. 
 
 2. Para reducir el número de aplicaciones mostradas, seleccione el **icono de filtro** situado junto al botón Obtener más aplicaciones. 
 
@@ -30,13 +30,13 @@ En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones 
 
 4. Seleccione la **X** de la esquina superior derecha del **cuadro de filtro** para cerrarlo. 
 
-5. Para localizar una aplicación específica, puede buscarla si pulsa en el campo **Buscar mis aplicaciones**, en la parte izquierda de la pantalla. 
+5. Para localizar una aplicación específica, puede buscarla si selecciona el campo **Buscar mis aplicaciones**, en la parte izquierda de la pantalla. 
 
 6. Escriba el texto **Centro de ventas** y seleccione la aplicación **Centro de ventas** para abrirla. 
 
 7. Cuando esté dentro de una aplicación, habrá diferentes áreas con las que podrá trabajar en función de lo que trate de hacer. Por ejemplo, la aplicación del centro de ventas contiene diferentes configuraciones de administración con las que puede trabajar. 
 
-8. En la parte inferior izquierda de la pantalla, seleccione el texto **Ventas** y, de la lista que aparece, seleccione **Configuración de la aplicación**. En esta parte de la aplicación es donde puede hacer cambios administrativos. 
+8. En la parte inferior izquierda del panel de navegación, seleccione **Ventas** y cambie al área **Configuración de la aplicación**. Explore la configuración de la aplicación.
 
 9. Seleccione de nuevo el selector de área y cámbielo de **Configuración de la aplicación** a **Ventas**.
 

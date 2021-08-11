@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: 'Laboratorio 2.3: Laboratorio final de Dynamics 365 Sales'
+    title: 'Laboratorio 2.3: Laboratorio final de Dynamics 365 Sales'
     module: 'Módulo 2: Aprender los fundamentos de Dynamics 365 Sales'
 ---
 
-Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
+Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
 ========================
 
 ## Laboratorio de prácticas 2.3: Laboratorio de proyecto final de Dynamics 365 Sales
@@ -70,7 +70,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 ## Ejercicio 1: Crear y calificar un cliente potencial en Dynamics 365 Sales
 
 
-### Tarea 1: Crear un nuevo cliente potencial
+### Tarea 1: Crear un nuevo cliente potencial
 
 1. Si es necesario, abra el navegador InPrivate y acceda a [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
@@ -98,13 +98,6 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 	- **Correo electrónico:** piper@sample.com
 
-	- **Calle 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
-
-	- **Ciudad:** Seattle
-
-	- **Estado o provincia**: WA
-
-	- **Código postal:** 98001 
 
 9. Seleccione el botón **Guardar** de la Barra de comandos para guardar el nuevo cliente potencial y dejarlo abierto.
 
@@ -120,7 +113,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 11. Haga clic en la **X** para cerrar la ventana. 
 
-12. Vaya a **Registro de escala de tiempo** en la mitad de la pantalla y haga clic en el **Icono del signo más** para agregar una nueva actividad. 
+12. Vaya a **Escala de tiempo del registro** en la mitad de la pantalla y haga clic en el **Icono +** para agregar una nueva actividad. 
 
 13. En el menú que aparece, seleccione **Llamada de teléfono**.
 
@@ -134,7 +127,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 	- **Descripción:** Después de algunos casos en su vecindario, busca comprar un sistema de seguridad. 
 
-15. Haga clic en el botón **Guardar y cerrar**.
+15. Seleccione el botón **Guardar y cerrar**.
 
 16. Observe que la actividad **Búsqueda de equipo de seguridad para el hogar** aparece ahora en el registro **Escala de tiempo**. Mantenga el puntero sobre la actividad y seleccione el **icono de marca de verificación** de cierre de actividad para marcar la llamada de teléfono como completada. 
 
@@ -146,7 +139,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
  
 
-### Tarea 2: Calificar al cliente potencial como oportunidad
+### Tarea 2: Calificar al cliente potencial como oportunidad
 
 Después de visitar a Piper, identifica que hay suficiente interés por su parte para continuar, y que tenemos productos y servicios que la beneficiarían. A continuación, calificará el registro del cliente potencial. Esto creará un registro de oportunidad relacionado y pasará a la siguiente etapa del proceso de ventas cliente potencial a oportunidad. 
 
@@ -154,9 +147,9 @@ Después de visitar a Piper, identifica que hay suficiente interés por su parte
 
 2. Una vez que el sistema califica al cliente potencial, se creará un nuevo registro de oportunidad y el proceso comercial avanzará a la etapa **Desarrollar**. Seleccione la etapa **Calificar** para ver el registro de cliente potencial original. 
 
-3. Seleccione la etapa **Desarrollar** para volver a la oportunidad.
+3. Seleccione la etapa **Cualificar** para volver al cliente potencial.
 
-4. Haga clic en **Guardar y cerrar** para cerrar el registro de oportunidad que acaba de crear. 
+4. Haga clic en **Guardar y cerrar** para cerrar el registro de cliente potencial que acaba de crear. 
 
  
 
@@ -166,15 +159,15 @@ Después de visitar a Piper, identifica que hay suficiente interés por su parte
 
 Ahora que hemos calificado con éxito el cliente potencial como una oportunidad, es el momento de trabajar la oportunidad a través de su ciclo de vida.
 
-### Tarea 1: Administrar una oportunidad de ventas y crear una oferta 
+### Tarea 1: Administrar una oportunidad de ventas y crear una oferta 
 
 1. En el panel izquierdo de la pantalla, seleccione **Oportunidades**. 
 
-2. Seleccione la flecha desplegable junto a la vista **Mis oportunidades abiertas**; en el menú que aparece, seleccione **Oportunidades abiertas**.
+2. Seleccione la flecha desplegable junto a la vista **Mis oportunidades abiertas**; en el menú que aparece, seleccione **Todas las oportunidades**.
 
-3. En la Barra de comandos, seleccione mostrar gráfico. Observe que el gráfico de clientes principales se muestra basado en la tabla de oportunidades. 
+3. En la Barra de comandos, seleccione mostrar gráfico. Observe que el gráfico de **clientes principales** se muestra basado en la tabla de oportunidades. 
 
-4. Seleccione la flecha desplegable junto a los clientes principales; en el menú que aparece, seleccione **Canalización de ventas**.
+4. Seleccione la flecha desplegable junto a los **clientes principales**; en el menú que aparece, seleccione **Canalización de ventas**.
 
 5. Seleccione la parte de calificación del embudo. Fíjese en que la lista de oportunidades cambia para mostrar las oportunidades en la etapa de calificación. 
 
@@ -198,7 +191,7 @@ Ahora que hemos calificado con éxito el cliente potencial como una oportunidad,
 
 13. En el menú que aparece, seleccione **Cita**.
 
-14. En **Creación rápida:** En la pantalla de **Cita**, complete lo siguiente:
+14. En **Creación rápida: **En la pantalla de **Cita**, complete lo siguiente:
 
 	- **Asunto:** Cita rápida – “Sus iniciales”
 
@@ -230,7 +223,7 @@ Ahora que hemos calificado con éxito el cliente potencial como una oportunidad,
 
 25. Asegúrese de que el registro de Coho Security que acaba de crear esté seleccionado y seleccione el botón **Agregar**. 
 
-26. Haga clic para seleccionar la etapa **Desarrollar** en el flujo de proceso de negocio **Cliente potencial a oportunidad**. Establezca los pasos **Identificar partes interesadas** e **Identificar competidores** en **Completado**. 
+26. Seleccione la etapa **Desarrollar** en el flujo de proceso de negocio **Cliente potencial a oportunidad**. Establezca los pasos **Identificar partes interesadas** e **Identificar competidores** en **Completado**. 
 
 27. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Proponer**.
 
@@ -240,7 +233,7 @@ Ahora que hemos calificado con éxito el cliente potencial como una oportunidad,
 
 30. En el registro de la oportunidad, seleccione la pestaña **Ofertas**. 
 
-31. En la subcuadrícula Ofertas, haga clic en **Nueva oferta**.
+31. En la subcuadrícula Ofertas, seleccione **Nueva oferta**.
 
  
 
@@ -248,15 +241,14 @@ Ahora que hemos calificado con éxito el cliente potencial como una oportunidad,
 
  
 
-### Tarea 2: Administrar una oferta
+### Tarea 2: Administrar una oferta
 
 Ahora que tiene una oferta relacionada, la preparará para presentársela a un cliente. En circunstancias normales, puede que agreguemos productos al registro de oferta antes de que se entregue al cliente. Como trabajamos en entornos compartidos, vamos a omitir el agregado de líneas de oferta y a revisar la entrega de la oferta. 
 
-1. En la **Barra de comandos**, haga clic en el botón **Activar oferta** para activar la oferta. 
 
-2. Ahora debe seleccionar una lista de precios para adjuntarla a la oportunidad.  En **Lista de precios**, en el panel izquierdo, seleccione el icono de búsqueda y luego seleccione **Lista de precios por defecto** en las opciones.
+1. Ahora debe seleccionar una lista de precios para adjuntarla a la oportunidad.  En **Lista de precios**, en el panel izquierdo, seleccione el icono de búsqueda y luego seleccione **Office 365 USA (muestra)** en las opciones. En la **Barra de comandos**, haga clic en el botón **Activar oferta** para activar la oferta. 
 
-3. Ahora que se ha creado la oferta, vamos a actualizar el registro de la oportunidad para reflejar los datos nuevos. En el registro de la oferta, seleccione la oportunidad **Búsqueda de equipo nuevo** – **“Su nombre”** en el campo **Oportunidad**, bajo la sección **Información de ventas**. El registro de la oportunidad debería abrirse en su pantalla. 
+2. Ahora que se ha creado la oferta, vamos a actualizar el registro de la oportunidad para reflejar los datos nuevos. En el registro de la oferta, seleccione la oportunidad **Búsqueda de equipo nuevo** – **“Su nombre”** en el campo **Oportunidad**, bajo la sección **Información de ventas**. El registro de la oportunidad debería abrirse en su pantalla. 
 
 3. En el registro de la oportunidad, seleccione la etapa **Proponer**. 
 
@@ -266,7 +258,7 @@ Ahora que tiene una oferta relacionada, la preparará para presentársela a un c
 
 6. Establezca **Confirmar fecha de decisión** en **Fecha actual**. 
 
-7. Haga clic en el botón **Finalizar**. 
+7. Seleccione el botón **Finalizar**. 
 
 8. Haga clic en la **X** en la etapa Cierre para cerrar la ventana. 
 
@@ -294,7 +286,7 @@ El sistema crea un nuevo pedido de ventas relacionado con el elemento. Además, 
 
 ###  
 
-### Tarea 3: Administrar el pedido y la factura
+### Tarea 3: Administrar el pedido y la factura
 
 Ahora que ha creado un pedido de ventas, cerraremos el pedido y generaremos una factura. En circunstancias normales, los productos del registro de oferta se agregarán al pedido de ventas. Como trabajamos en entornos compartidos, vamos a avanzar como si hubiera productos agregados. 
 
@@ -312,4 +304,4 @@ Ahora que ha creado un pedido de ventas, cerraremos el pedido y generaremos una 
 
 4. En la **Barra de comandos** del pedido, seleccione el botón **Crear factura**. 
 
-5. Cuando el registro de la factura se abra, seleccione **Factura pagada**.
+5. En la **Barra de comandos**, seleccione el botón **Factura pagada**. Seleccione Aceptar.

@@ -1,10 +1,10 @@
----
+﻿---
 lab:
-    title: 'Laboratorio 1.5: Crear un segmento en Dynamics 365 Marketing'
+    title: 'Laboratorio 1.5: Crear un segmento en Dynamics 365 Marketing'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
 ---
 
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
 ========================
 
 ## Laboratorio de prácticas 1.5: Crear un segmento en Dynamics 365 Marketing
@@ -19,7 +19,8 @@ Durante el ejercicio verá que es muy fácil crear segmentos de clientes que tie
 
 ## Instrucciones
 
-1. En la navegación de la izquierda, seleccione segmentos, debajo de marketing. 
+
+1. Abra la aplicación Dynamics Marketing. Se debe seleccionar el área **Marketing**. Seleccione **Segmentos** en **Clientes**.
 
 2. En la Barra de comandos, seleccione **Nuevo**.
 
@@ -29,15 +30,15 @@ Durante el ejercicio verá que es muy fácil crear segmentos de clientes que tie
 
 5. Seleccione **Agregar bloque de consulta** para crear una consulta en la tabla de contactos. 
 
-6. Seleccione el texto fantasma **Seleccionar atributo**. 
+6. Seleccione el control **Seleccionar atributo**.
 
-7. Luego, escriba “ciudad” para filtrar la lista y elija **Dirección 1: Ciudad** de la lista.
+7. Escriba “ciudad” para filtrar la lista y seleccione **Dirección 1: Ciudad**.
 
-8. Deje la siguiente lista desplegable establecida en **Igual a**. 
+8. Deje la siguiente lista desplegable establecida en **Es**. 
 
-9. Seleccione la tercera lista desplegable, que contiene el texto fantasma **Especificar texto** y escriba **Redmond**.
+9. Haga clic en **Escribir texto para buscar** y escriba **Chicago**.
 
-10. Haga clic para seleccionar el campo **Nombre** en la parte superior de la consulta y escriba **Contactos de Fargo - Sus iniciales**.
+10. Seleccione el campo **Nombre** en la parte superior de la consulta y escriba **Contactos de Chicago - Sus iniciales**.
 
 11. Seleccione **Guardar** en la Barra de comandos para guardar su segmento
 
@@ -45,4 +46,4 @@ Durante el ejercicio verá que es muy fácil crear segmentos de clientes que tie
 
 13. Espere aproximadamente un minuto y luego seleccione **Actualizar** en la Barra de comandos para actualizar la página. 
 
-14. Ahora debería ver que se ha agregado la pestaña **Miembros**. 
+14. Ahora debería ver que se ha agregado la pestaña **Miembros**. Debería aparecer Jackson Anderson.

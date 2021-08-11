@@ -1,17 +1,17 @@
----
+﻿---
 lab:
-    title: 'Laboratorio 1.3: Administrar clientes y actividades'
+    title: 'Laboratorio 1.3: Administrar clientes y actividades'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
 ---
 
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
 ========================
 
 ## Laboratorio de prácticas 1.3: Administrar clientes y actividades
 
 ## Objetivos
 
-Definir y trabajar con registros de cuentas y contactos en aplicaciones de Dynamics 365 es una de las actividades más habituales que realizará en la aplicación. Una vez que se crean las cuentas y los contactos, las actividades como las llamadas de teléfono, las tareas y las citas representarán las interacciones que tiene con sus clientes.
+Establecer y utilizar registros de cuentas y contactos en Dynamics 365 es una de las actividades más habituales. Una vez que se crean las cuentas y los contactos, interactuará con sus clientes realizando actividades como llamadas telefónicas, tareas y reuniones.
 
 ## Configuración del laboratorio
 
@@ -19,13 +19,13 @@ Definir y trabajar con registros de cuentas y contactos en aplicaciones de Dynam
 
 ## Instrucciones
 
-En este ejercicio, trabajará con registros comunes que aprovechan todas las aplicaciones de captación de clientes propias. 
+En este ejercicio, trabajará con registros comunes que usan todas las aplicaciones de Dynamics 365 Customer Engagement. 
 
-1. Si aún no lo ha hecho, abra la aplicación **Centro de ventas de Dynamics 365**. 
+1. Si aún no lo ha hecho, abra la aplicación **Centro de ventas de Dynamics 365**. 
 
 2. Con la navegación de la parte izquierda de la pantalla, seleccione **Cuentas**. 
 
-3. En la Barra de comandos, seleccione el botón **Nuevo**.
+3. En la Barra de comandos de la parte superior de la pantalla, seleccione el botón **Nuevo**.
 
 4. Complete el registro de cuenta como sigue:
 
@@ -61,7 +61,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 8. Establezca el campo de la **Cuenta primaria** a la cuenta **Contoso Corporate** que creó anteriormente. 
 
-9. Haga clic en el botón **Guardar** para guardar la cuenta y dejarla abierta. 
+9. Seleccione el botón **Guardar** para guardar el registro y dejarlo abierto. 
 
 10. Localice la **Subcuadrícula de contactos** en la parte derecha de la pantalla. 
 
@@ -81,7 +81,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 14. Justo encima de la subcuadrícula del contacto, seleccione el campo **Contacto principal** y establézcalo como el contacto de **Jackson Anderson** que acaba de crear. 
 
-15. Vaya a **Registro de escala de tiempo** en la mitad de la pantalla y haga clic en el **icono del signo más** para agregar un elemento nuevo. 
+15. En **Registro de escala de tiempo** en la mitad de la pantalla, seleccione el **icono del signo más** para agregar un nuevo elemento de actividad. 
 
 16. En el menú que aparece, seleccione **Cita.**
 
@@ -95,18 +95,18 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 18. Seleccione el botón **Guardar y cerrar**. 
 
-19. En el teclado, pulse la **tecla F5** para actualizar la pantalla. 
+19. Espere hasta que se actualice automáticamente la escala de tiempo. 
 
-20. Fíjese que el **Asistente** de la derecha de la pantalla ahora muestra información sobre la cita. 
+20. Verá que la **Escala de tiempo** ahora muestra información sobre la cita. 
 
 21. **Guarde y cierre** la cuenta. 
 
-22. Haga clic para seleccionar la **Cita** y mostrar sus detalles. 
+22. En la sección **Mi trabajo** del panel de navegación, seleccione **Actividades**.
 
-23. Seleccione el vínculo **Abrir cita**.
+23. Seleccione el vínculo **Reunión con Jackson** para abrir la fila de la cita y mostrar el formulario. 
 
-24. Con el registro de la cita abierto, en la **Barra de comandos**, seleccione el botón **Marcar como completada** para finalizar la cita. 
+24. Con el registro de la cita abierto, en la **Barra de comandos**, seleccione el botón **Marcar como completada** para completarla. 
 
-25. Seleccione el botón **Guardar y cerrar** para volver al registro de la cuenta. 
+25. Verá que la cita ya no aparece en la vista **Mis actividades**. 
 
-26. Seleccione **Guardar y cerrar** en el registro de la cuenta para salir del registro de la cuenta. 
+26. Seleccione la vista **Mis actividades** para cambiar a la vista **Actividades cerradas**. Aparecerá la cita **Reunión con Jason** completada.
