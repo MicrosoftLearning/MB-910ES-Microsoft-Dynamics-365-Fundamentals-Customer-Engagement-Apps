@@ -1,17 +1,17 @@
 ---
 lab:
-    title: 'Laboratorio 4.1: Generar órdenes de trabajo en Dynamics 365 Field Service'
+    title: 'Laboratorio 4.1: Generar órdenes de trabajo en Dynamics 365 Field Service'
     module: 'Módulo 4: Aprender los fundamentos de Dynamics 365 Field Service'
 ---
 
-Módulo 4: Descubrir los fundamentos de Dynamics 365 Field Service
+Módulo 4: Aprender los fundamentos de Dynamics 365 Field Service
 ========================
 
 ## Laboratorio de prácticas 4.1: Generar órdenes de trabajo en Dynamics 365 Field Service
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 10 minutos
+  - **Tiempo estimado**: 10 minutos
 
 ## Instrucciones
 
@@ -21,17 +21,19 @@ Módulo 4: Descubrir los fundamentos de Dynamics 365 Field Service
 
 3. Complete los detalles de la orden de trabajo con lo siguiente:
 
-	- **Cuenta de servicio:** Adventure Works
+	- **Cuenta de servicio:** Adventure Works Cycles
 
-	- **Tipo de orden de trabajo**: Servicio
+	- **Tipo de orden de trabajo**: Servicio (crear nuevo)
 
-	- **Lista de precios:** Lista de precios predeterminada
+	- **Lista de precios:** CRM Service USA (muestra)
 
 	- **Gravable:** No
 
+4. Guarde la orden de trabajo.
+
 4. Seleccione la pestaña **Configuración**.
 
-5. Establezca el campo **Zona de servicio** en **WA**.
+5. Establezca el campo **Zona de servicio** en **WA**. (Crear nuevo)
 
 6. En **Preferencias**, configure las preferencias de la siguiente manera:
 

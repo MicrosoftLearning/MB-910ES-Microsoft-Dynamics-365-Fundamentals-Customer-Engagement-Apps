@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Laboratorio 1.1: Validar el entorno de laboratorio'
+    title: 'Laboratorio 1.1: Validar el entorno de laboratorio'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
 ---
 
 
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
 ========================
 
 ## Laboratorio de prácticas 1.1: Validar el entorno de laboratorio 
@@ -34,10 +34,10 @@ Ejercicio 1: Acceso a la aplicación Dynamics 365
 
 ### Tarea 2: Acceso a la aplicación Dynamics 365
 
-1.  Expanda el botón de cuadrícula de la parte superior izquierda de la pantalla, justo a la izquierda del **Centro de administración de Power Platform.** Seleccione **Dynamics 365.**
+1.  Expanda el botón de cuadrícula del iniciador de aplicaciones de la parte superior izquierda de la pantalla, justo a la izquierda del **Centro de administración de Power Platform. Seleccione la aplicación Dynamics 365 Marketing** para iniciarla.
 
-2.  Seleccione el botón **Editar**. Abrirá el entorno Contoso en el **Centro de administración de Power Platform.**
+2.  Explore el panel de navegación del lado izquierdo. El botón de la parte inferior del panel permite cambiar las áreas. Ahora mismo, está en el área **Marketing**. 
 
-4. En la lista de aplicaciones disponibles de Dynamics 365, seleccione **Marketing.**
+3.  Seleccione **Marketing** en la parte inferior del panel de navegación y seleccione el área **Eventos**. Explore el área **Eventos** del panel de navegación.  
 
-5. Dedique unos minutos a explorar la aplicación.
+4. Dedique unos minutos a explorar la aplicación y, después, vuelva al área **Marketing**.

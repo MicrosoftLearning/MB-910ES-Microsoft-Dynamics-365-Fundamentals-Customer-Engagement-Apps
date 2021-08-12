@@ -10,7 +10,7 @@ demo:
 
 Los dispositivos IoT se están convirtiendo en una parte importante de la vida cotidiana. 
 
-1. Los clientes suelen tener activos físicos que requieren trabajo y mantenimiento. Estos activos suelen estar instalados inicialmente y tener contratos de mantenimiento preventivo. Dynamics 365 Field Service incluye la funcionalidad de administración de activos que trabaja codo con codo con la funcionalidad Connected Field Service. 
+1. Los clientes suelen tener activos físicos que requieren trabajo y mantenimiento.  Si el activo es un dispositivo conectado, puede incluir sensores de IoT que pueden devolver información.  Los activos se suelen instalar como parte de una orden de trabajo.  Una vez instalados, se pueden abrir contratos de mantenimiento preventivo para ofrecer un servicio de mantenimiento para que los activos sigan funcionando correctamente.  Dynamics 365 Field Service incluye una funcionalidad de administración de activos que trabaja a la par de la funcionalidad Connected Field Service.    
 
 	- Cree un activo del cliente.
 

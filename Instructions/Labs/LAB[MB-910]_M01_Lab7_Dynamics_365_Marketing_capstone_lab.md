@@ -1,13 +1,15 @@
 ---
 lab:
-    title: 'Laboratorio 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing'
+    title: 'Laboratorio 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
 ---
 
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
 ========================
 
 ## Laboratorio de prácticas 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing
+
+**Nota:** Los correos electrónicos de marketing no se pueden crear ni editar en Internet Explorer. Use Microsoft Edge o Google Chrome para completar este ejercicio.
 
 ## Escenario de laboratorio
 
@@ -75,51 +77,51 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 6. En el campo **Nombre** escriba **Seguridad en el hogar – Sus iniciales**. 
 
-7. En el campo **Asunto** escriba el texto **Mantenga a su familia a salvo**.
+7. En el campo **Asunto** escriba el texto **Mantenga a su familia a salvo**. Es posible que deba desplazarse a la parte superior de la página Diseño para ver el campo Asunto.
 
 8. En la ventana de mensajes, localice y seleccione la pequeña imagen que hay **sobre** el texto a **Aquí va un titular breve**. 
 
-9. Mantenga el puntero y seleccione el botón **Galería de imágenes**. 
+9. En el panel Propiedades, mantenga el puntero y seleccione el botón **Galería de imágenes**. 
 
-10. Seleccione la **Imagen de seguridad 2** y haga clic en el botón **Seleccionar** para insertarla en su correo electrónico. 
+10. Seleccione la imagen **contosologo.png** y haga clic en el botón **Seleccionar** para insertarla en su correo electrónico. 
 
 11. Utilice los manipuladores de tamaño de la imagen para darle a la imagen el tamaño deseado. 
 
-12. Haga clic para seleccionar el cuadro de texto **Aquí va un titular breve**. Cambia el texto a **Siéntase seguro siempre**.
+12. Seleccione el cuadro de texto **Aquí va un titular breve**. Cambie el texto a **Siéntase seguro siempre**.
 
-13. Haga clic en la sección bajo del texto que acaba de modificar. 
+13. Seleccione la sección bajo del texto que acaba de modificar. 
 
 14. Reemplace el texto por el siguiente: ¿Sabe lo que ocurre siempre dentro y en los alrededores de su hogar? Usted y su familia se merecen sentirse seguros tanto dentro de casa como fuera de ella. El sistema de seguridad adecuado no solo puede ofrecerles esa sensación de seguridad, sino que también puede hacer que ahorre dinero en su seguro. 
 
 15. Seleccione la **Imagen** justo debajo del texto que ha agregado. 
 
-16. Mantenga el puntero y seleccione el botón **Galería de imágenes**. 
+16. Seleccione el botón **Galería de imágenes**. 
 
-17. Seleccione la imagen **Seguridad 1** y haga clic en el botón **Seleccionar** para insertarla en su correo electrónico. 
+17. Seleccione la imagen **safebox.png** y haga clic en el botón **Seleccionar** para insertarla en su correo electrónico. 
 
-18. Cambie el tamaño de la imagen hasta que ocupe una porción sólida en la ventana del mensaje. 
+18. Ajuste el tamaño de la imagen. 
 
 19. Seleccione el **Cuadro de encabezado o título** justo debajo de la imagen, sustituya el texto por **Tenemos todo lo que necesita**. 
 
-20. Haga clic en el cuadro de texto bajo el encabezado que acaba de modificar. 
+20. Seleccione el cuadro de texto bajo el encabezado que acaba de modificar. 
 
 21. Reemplace el texto por el siguiente: **Nuestros sistemas de reconocimiento mundial le protegen.**
 
-22. Haga clic para seleccionar la sección completa bajo la que acaba de modificar. Pulse el icono de la **papelera** para eliminar la sección. 
+22. Seleccione la sección completa bajo la que acaba de modificar. Pulse el icono de la **papelera** para eliminar la sección. 
 
-23. Repita el proceso para las demás secciones del mensaje. 
+23. Repita el proceso para las demás secciones o elementos del mensaje.
 
 24. Antes de publicar el correo electrónico, comprobaremos que no haya errores. En la **Barra de comandos**, seleccione el botón **Buscar errores**. 
 
 25. Una vez que haya comprobado que no hay errores, en la **Barra de comandos**, seleccione el botón **Publicar**. 
 
-26. Haga clic en la flecha desplegable junto al botón **Guardar** de la Barra de comandos y seleccione **Guardar y cerrar**. 
+26. Seleccione la flecha desplegable junto al botón **Guardar** de la Barra de comandos y seleccione **Guardar y cerrar**. 
 
-Ya ha creado con éxito un correo electrónico de marketing que puede aprovechar en otras áreas de la aplicación de marketing. 
+27. Si ha usado la misma dirección de correo electrónico para ambos contactos, recibirá una alerta **Registros duplicados encontrados**. Seleccione **Ignorar y guardar**.
 
-## Ejercicio 2: Crear un segmento en Dynamics 365 Marketing
+## Ejercicio 2: Crear un segmento en Dynamics 365 Marketing
 
-### Tarea 1: Agregar algunos contactos de ejemplo con los que trabajar 
+### Tarea 1: Agregar algunos contactos de ejemplo con los que trabajar 
 
 1. Con la navegación de la izquierda, seleccione Contactos, debajo del grupo de clientes
 
@@ -165,7 +167,7 @@ Ya ha creado con éxito un correo electrónico de marketing que puede aprovechar
 
 **NOTA:** Utilizamos la misma dirección para facilitar el reconocimiento de los contactos como datos de ejemplo. 
 
-### Tarea 2: Crear un segmento de clientes
+### Tarea 2: Crear un segmento de clientes
 
 La creación de un segmento de cliente nos permitirá definir los clientes a los que queremos dirigir diferentes acciones de marketing. 
 
@@ -185,13 +187,13 @@ La creación de un segmento de cliente nos permitirá definir los clientes a los
 
 8. Observe que la tabla de contactos está seleccionada por defecto. No la cambie. 
 
-9. Haga clic para seleccionar el texto fantasma **Seleccionar atributo**. 
+9. Seleccione el texto **Seleccionar atributo**. 
 
-10. Escriba la palabra “ciudad” para filtrar la lista. Elija **Dirección 1: Ciudad** de la lista.
+10. Escriba la palabra "ciudad" para filtrar la lista. Elija **Dirección 1: Ciudad** de la lista.
 
 11. Deje la siguiente lista desplegable establecida en **Igual a**. 
 
-12. Seleccione la tercera lista desplegable, que contiene el texto fantasma **Especificar texto** y escriba **Seattle**.
+12. Seleccione la tercera lista desplegable, que contiene el texto **Especificar texto** y seleccione **Seattle**.
 
 13. Seleccione **Guardar** en la Barra de comandos para guardar su segmento.
 
@@ -201,7 +203,7 @@ La creación de un segmento de cliente nos permitirá definir los clientes a los
 
 16. Ahora debería ver que se ha agregado la pestaña **Miembros**.
 
-### Tarea 3: Probar el segmento de clientes
+### Tarea 3: Probar el segmento de clientes
 
 Ahora que lo creamos con éxito, comprobemos que el segmento dinámico se rellene correctamente a medida que se agreguen o eliminen contactos. Para ello, crearemos un nuevo contacto que viva en Seattle. 
 
@@ -231,11 +233,11 @@ Ahora que lo creamos con éxito, comprobemos que el segmento dinámico se rellen
 
 6. Abra el segmento **Clientes de Seattle – Sus iniciales** que creó anteriormente. 
 
-7. Seleccione la pestaña **Miembros**. Fíjese que **Rick Jones – Sus iniciales** debería aparecer ahora. 
+7. Seleccione la pestaña **Miembros**. Fíjese que **Rick Jones – Sus iniciales** debería aparecer ahora. Es posible que tenga que actualizar la vista.
 
 **IMPORTANTE:** Como trabajamos en un entorno compartido y todos trabajan en el mismo sistema, puede que también vea otros contactos en el segmento de marketing dinámico. Está bien para los fines de este curso. 
 
-## Ejercicio 3: Crear un recorrido del cliente
+## Ejercicio 3: Crear un recorrido del cliente
 
 Ahora que creamos el contenido de marketing que queremos ofrecer y definimos un segmento de clientes al que dirigirnos, estamos listos para crear un recorrido del cliente para dirigirnos a los clientes. 
 
@@ -247,7 +249,7 @@ Ahora que creamos el contenido de marketing que queremos ofrecer y definimos un 
 
 4. En el área de **Público**, compruebe que el **Tipo de fuente** esté configurada como **Segmento**. 
 
-5. Haga clic en la búsqueda de segmentos bajo el desplegable de **Inclusión**. 
+5. Seleccione la búsqueda de segmentos bajo el desplegable de **Inclusión**. 
 
 6. Escriba el texto **Seattle** y seleccione el segmento **Clientes de Seattle** que creó anteriormente. 
 
@@ -261,7 +263,7 @@ Ahora que creamos el contenido de marketing que queremos ofrecer y definimos un 
 
 11. Seleccione el segmento **Seguridad en el hogar – Sus iniciales**. 
 
-12. Haga clic en el campo **Seleccionar una condición**. Elija **un enlace que se haya pulsado**.
+12. Haga clic en el campo **Seleccionar una condición**. Elija **un vínculo que se haya pulsado**.
 
 13. En la ruta **Sí**, seleccione el signo **+**. En el menú que aparece, seleccione **Crear cliente potencial**.
 

@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'Laboratorio 3.3: Laboratorio final de Dynamics 365 Customer Service'
+    title: 'Laboratorio 3.3: Laboratorio final de Dynamics 365 Customer Service'
     module: 'Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Descubrir los fundamentos de Dynamics 365 Customer Service
+Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
 ========================
 
 ## Laboratorio de prácticas 3.3: Laboratorio final de Dynamics 365 Customer Service
@@ -59,13 +59,13 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 45 minutos
+  - **Tiempo estimado**: 45 minutos
 
 ## Instrucciones
 
 ## Ejercicio 1: Crear y publicar un artículo de conocimientos
 
-### Tarea 1: Crear un artículo de conocimientos
+### Tarea 1: Crear un artículo de conocimientos
 
 1. Si aún no lo ha hecho, abra la aplicación **Dynamics 365 Customer Service Hub**. 
 
@@ -73,13 +73,13 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 3. Para ver fácilmente qué artículos se encuentran en qué etapas, haga clic en el desplegable junto a **Mis artículos activos**. 
 
-4. Seleccione **Artículos en borrador**. Verá dos artículos en borrador.
+4. Seleccione **Artículos en borrador**. 
 
-5. Utilice el selector de vista para seleccionar **Artículos aprobados**. Verá al menos un artículo aprobado. 
+5. Utilice el selector de vista para seleccionar **Artículos aprobados**.  
 
 6. Use el selector de vista para volver a **Mis artículos activos**.
 
-7. En la **Barra de comandos**, seleccione el botón **Nuevo**. 
+7. En la **Barra de comandos**, seleccione el botón **Nuevo**. Una vez abierto el nuevo registro, seleccione la flecha desplegable junto al campo **Razón de estado** en la cabecera del registro, en la parte superior. Establezca el **Idioma** como **Inglés - Estados Unidos**.
 
 8. Complete el artículo del siguiente modo:
 
@@ -123,7 +123,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
  
 
-### Tarea 2: Administrar un artículo mediante el proceso de aprobación
+### Tarea 2: Administrar un artículo mediante el proceso de aprobación
 
 En la mayoría de organizaciones, después de que el autor cree el registro, pasará por un proceso de aprobación antes de su publicación. La mayoría de las veces esto lo hace otra persona. Para este ejercicio, actuaremos como aprobador. 
 
@@ -153,7 +153,7 @@ En la mayoría de organizaciones, después de que el autor cree el registro, pas
 
 13. Presione la tecla **Entrar**. 
 
-14. Escriba el texto y pulse el botón **Confirmar**. 
+14. Escriba el texto "Pulse el botón Confirmar". 
 
 15. En la **Barra de comandos**, seleccione el botón **Guardar y cerrar**.
 
@@ -168,11 +168,11 @@ En la mayoría de organizaciones, después de que el autor cree el registro, pas
 20. Se le pedirá confirmación de la aprobación del artículo, seleccione **Aceptar**. 
 
 
-### Tarea 3: Aprobar el artículo de conocimientos
+### Tarea 3: Aprobar el artículo de conocimientos
 
 Ahora que el artículo está aprobado, lo publicaremos para que esté disponible para otras personas que trabajan en casos. 
 
-1. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Publicación**. 
+1. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Publicar**. 
 
 2. Marque **Establecer asociación de producto** como **Completado**. 
 
@@ -200,7 +200,7 @@ Ahora que el artículo está aprobado, lo publicaremos para que esté disponible
 ## Ejercicio 2: Administrar un caso de soporte en su ciclo de vida
 
 
-### Tarea 1: Crear y administrar un caso
+### Tarea 1: Crear y administrar un caso
 
 1. Si aún no lo ha hecho, abra la aplicación **Dynamics 365 Customer Service Hub**. 
 
@@ -208,17 +208,8 @@ Ahora que el artículo está aprobado, lo publicaremos para que esté disponible
 
 3. En la **Barra de comandos**, haga clic en el botón **Mostrar filtro visual**.
 
-4. En el gráfico **Combinación de casos (por origen)**, seleccione **Teléfono**. Verá como los casos se filtran para mostrar únicamente casos de teléfono.  
 
-5. Seleccione **Eliminar todo** para borrar el filtro.
-
-6. En el gráfico **Casos por prioridad**, seleccione la categoría **Alta**. Verá que la lista de casos se filtra para mostrar los casos de alta prioridad.  
-
-7. Haga clic en el primer caso de la lista para abrirlo. Tras abrir el caso, haga clic en **Guardar y cerrar** en la Barra de comandos para cerrar el caso y volver al panel del **Nivel 1**. 
-
-8. Seleccione **Eliminar todo** para quitar cualquier filtro aplicado. 
-
-9. Los demás paneles proporcionan detalles adicionales sobre la carga de casos actual. Puede trabajar con otros paneles con el selector de paneles. Cambie el panel de **Panel de nivel 1** a **Panel de nivel 2**. 
+4. Los demás paneles proporcionan detalles adicionales sobre la carga de casos actual. Puede trabajar con otros paneles con el selector de paneles. Cambie el panel de **Panel de nivel 1** a **Panel de nivel 2**. 
 
  
 
@@ -256,7 +247,7 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
 	- **Duración:** 15 minutos.
 
-17. Haga clic en el botón **Guardar y cerrar**. 
+17. Seleccione el botón **Guardar y cerrar**. 
 
 18. En el **proceso de teléfono a caso**, haga clic en la etapa **Identificar**.
 
@@ -276,7 +267,7 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
 	- **Duración:** 30 minutos.
 
-24. Haga clic en el botón **Guardar y cerrar**. 
+24. Seleccione el botón **Guardar y cerrar**. 
 
 25. En la parte derecha de la pantalla, localice y seleccione el icono en forma de libro **Conocimientos**. (Estará justo debajo del icono en forma de llave inglesa).
 
@@ -288,15 +279,15 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
  
 
-### Tarea 2: Cerrar el caso
+### Tarea 2: Cerrar el caso
 
 Ahora que hemos identificado una solución al problema del cliente, podremos resolver el caso. El primer paso para cerrar un caso es cerrar todas las actividades abiertas asociadas con el mismo. 
 
-1. En la **escala de tiempo** del caso, mantenga el puntero sobre **la tarea de investigar el problema de Piper** que creó anteriormente. Seleccione el icono de **la marca de verificación** para completar la actividad. 
+1. En la **escala de tiempo** del caso, mantenga el puntero sobre **la tarea de investigar el problema de Piper** que creó anteriormente.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
 
 2. En la pantalla **Cerrar tarea**, compruebe que el estado es completado y seleccione el botón **Cerrar**. El estado de la tarea debería ser **Cerrado**. 
 
-3. Mantenga el puntero sobre **Devolver la llamada a Piper** que creó anteriormente. Seleccione el icono de **la marca de verificación** para completar la actividad. 
+3. Mantenga el puntero sobre **Devolver la llamada a Piper** que creó anteriormente**.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
 
 4. En la pantalla **Cerrar llamada de teléfono**, compruebe que los **Estados** son **Completado** y **Hecho**. Seleccione el botón **Cerrar**. Compruebe que la actividad aparece como cerrada en la escala de tiempo. 
 

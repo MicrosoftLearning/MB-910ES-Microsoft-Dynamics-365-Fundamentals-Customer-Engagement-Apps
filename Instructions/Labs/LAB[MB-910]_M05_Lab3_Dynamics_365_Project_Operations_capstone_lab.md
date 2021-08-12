@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'Laboratorio 5.3: Laboratorio final de Dynamics 365 Project Operations'
+    title: 'Laboratorio 5.3: Laboratorio final de Dynamics 365 Project Operations'
     module: 'Módulo 5: Aprender los fundamentos de Dynamics 365 Project Operations'
 ---
 
-Módulo 5: Descubrir los fundamentos de Dynamics 365 Project Operations
+Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
 ========================
 
 ## Laboratorio de prácticas 5.3: Laboratorio final de Dynamics 365 Project Operations
@@ -60,7 +60,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 45 minutos
+  - **Tiempo estimado**: 45 minutos
 
 ## Instrucciones
 
@@ -70,13 +70,13 @@ La oportunidad de proyecto se utiliza para recabar detalles de alto nivel acerca
 
 En este ejercicio, creará un proyecto y definirá detalles relacionados con la oferta del proyecto. 
 
-### Tarea 1: Crear una oferta de proyecto.  
+### Tarea 1: Crear una oferta de proyecto.  
 
 1. Con la Oportunidad de proyecto abierta, seleccione la pestaña **Ofertas**. 
 
-2. En la subcuadrícula Ofertas, haga clic en **Nueva oferta**.
+2. En la subcuadrícula Ofertas, seleccione **Nueva oferta**.
 
-3. Tras abrirse el registro de la oferta nueva, establezca el campo **Lista de precios del producto** de la oferta en **Productos y servicios empaquetados**. 
+3. Tras abrirse el registro de la oferta nueva, establezca el campo **Lista de precios del producto** de la oferta en **US Bill Rates**. 
 
 4. Seleccione la pestaña **Partidas de oferta**.
 
@@ -132,7 +132,6 @@ En este ejercicio, creará un proyecto y definirá detalles relacionados con la 
 
 	- **Unidad:** Hour
 
-	- **Importe de venta:** 50.000
 
 15. Seleccione el botón **Guardar y cerrar** para cerrar el detalle de la partida presupuestaria. 
 
@@ -142,7 +141,7 @@ En este ejercicio, creará un proyecto y definirá detalles relacionados con la 
 **Nota:** Deje la oferta de proyecto abierta para poder utilizarla en la siguiente tarea. 
 
 
-### Tarea 2: Cerrar la oferta de proyecto y crear un contrato de proyecto.
+### Tarea 2: Cerrar la oferta de proyecto y crear un contrato de proyecto.
 
 En esta tarea, cerrará la oferta que ha creado y la convertirá en un contrato de proyecto. El contrato de proyecto podrá ser utilizado y se podrá acceder a él mientras se ejecuta el proyecto. 
 
@@ -164,7 +163,7 @@ Una de las ventajas de acceder a las capacidades de venta del proyecto en Projec
 En este ejercicio, se encargará de algunas de las tareas iniciales relacionadas con el proyecto como definir los detalles del proyecto, definir un equipo de proyecto y hacer un esquema de las tareas del proyecto. 
 
 
-### Tarea 1: Administrar los datos básicos del proyecto. 
+### Tarea 1: Administrar los datos básicos del proyecto. 
 
 1. Con el contrato de proyecto de **Implementación de seguridad global completa - sus iniciales** abierto, seleccione la pestaña **Relacionado**. 
 
@@ -179,7 +178,7 @@ En este ejercicio, se encargará de algunas de las tareas iniciales relacionadas
 6. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Planificar**. 
 
  
-### Tarea 2: Crear un equipo de proyecto.
+### Tarea 2: Crear un equipo de proyecto.
 
 Cada proyecto tendrá un equipo de miembros que ocuparán los diferentes roles necesarios en el proyecto. En esta tarea se definirán los recursos de los que se compondrá el equipo del proyecto. 
 
@@ -219,7 +218,7 @@ Cada proyecto tendrá un equipo de miembros que ocuparán los diferentes roles n
 8. Seleccione el botón **Guardar y cerrar**.
 
 
-### Tarea 3: Definir el calendario de proyecto.
+### Tarea 3: Definir el calendario de proyecto.
 
 Otra parte importante al definir un proyecto es definir las tareas y el calendario del proyecto. En esta tarea agregaremos tareas de proyecto y las asociaremos a diferentes roles. 
 
@@ -262,13 +261,13 @@ Otra parte importante al definir un proyecto es definir las tareas y el calendar
 **Nota:** Manténgase en la pestaña programar ya que haremos modificaciones adicionales en la siguiente tarea. 
 
 
-### Tarea 4: Asociar recursos con un proyecto.
+### Tarea 4: Asociar recursos con un proyecto.
 
 Como parte de definir el calendario de proyecto, puede especificar el tipo de recursos que serán utilizados para satisfacer las necesidades de personal. Puede tratarse de recrusos con nombres o recursos genéricos que serán reemplazados por recursos con nombre más adelante. En esta tarea, definirá tanto recursos con nombre como genéricos para las tareas del proyecto que ha creado. 
 
 1. Si es necesario, abra el proyecto **Implementación de seguridad global completa - sus iniciales** y seleccione la pestaña **Programar**. 
 
-2. Localice la tarea **Crear diseño del sistema** que ha agregado anteriormente y haga clic en el campo **Recursos**. 
+2. Localice la tarea **Crear diseño del sistema** que ha agregado anteriormente y seleccione el campo **Recursos**. 
 
 3. En el menú que aparece, seleccione **Crear**. 
 

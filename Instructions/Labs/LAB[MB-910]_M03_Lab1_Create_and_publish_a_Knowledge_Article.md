@@ -1,17 +1,17 @@
 ---
 lab:
-    title: 'Laboratorio 3.1: Crear y publicar un artículo de conocimiento en Dynamics 365 Customer Service'
+    title: 'Laboratorio 3.1: Crear y publicar un artículo de conocimiento en Dynamics 365 Customer Service'
     module: 'Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Descubrir los fundamentos de Dynamics 365 Customer Service
+Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
 ========================
 
 ## Laboratorio de prácticas 3.1: Crear y publicar un artículo de conocimiento en Dynamics 365 Customer Service
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 15 minutos
+  - **Tiempo estimado**: 15 minutos
 
 ## Instrucciones
 
@@ -21,13 +21,15 @@ Módulo 3: Descubrir los fundamentos de Dynamics 365 Customer Service
 
 3. Para ver fácilmente qué artículos se encuentran en qué etapas, haga clic en el desplegable junto a **Mis artículos activos**. 
 
-4. Seleccione **Artículos en borrador**. Verá dos artículos en borrador.
+4. Seleccione la vista **Artículos de borrador**. 
 
-5. Seleccione **Artículos aprobados**. Verá al menos un artículo aprobado. 
+5. Seleccione **Artículos aprobados**. 
 
 6. Vuelva a **Mis artículos activos**.
 
 7. En la **Barra de comandos**, seleccione el botón **Nuevo**. 
+
+8. Una vez abierto el nuevo registro, seleccione la flecha desplegable junto al campo **Razón de estado** en la cabecera del registro, en la parte superior. Establezca el **Idioma** como **Inglés - Estados Unidos**.
 
 8. Complete el artículo del siguiente modo:
 
@@ -51,7 +53,7 @@ Módulo 3: Descubrir los fundamentos de Dynamics 365 Customer Service
 
 	4. Seleccione “dañado” como razón
 
-	5. Haga clic en Imprimir.
+	5. Seleccione Imprimir
 
 Una vez hayamos recibido la pieza devuelta/dañada, le será reembolsado el importe en su cuenta.
 
@@ -77,13 +79,13 @@ Después de que el autor cree el registro, pasará por un proceso de aprobación
 
 18. Se le pedirá confirmación de la aprobación del artículo, seleccione **Aceptar**. 
 
-19. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Publicación**. 
+19. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Publicar**. 
 
 20. En la **Barra de comandos** en la parte superior del artículo, seleccione **los tres puntos verticales** en el lado izquierdo de la barra. En el menú que aparece, seleccione **Relacionar producto**. 
 
 21. En la ventana **Relacionar producto**, seleccione **Office 365 para empresas (Ejemplo)**.
 
-22. Haga clic en el botón **Asociar**. 
+22. Seleccione el botón **Asociar**. 
 
 23. En **Nuevo proceso**, seleccione la etapa **Publicar**. 
 

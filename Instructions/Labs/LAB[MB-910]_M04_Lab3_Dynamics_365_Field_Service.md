@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'Laboratorio 4.3: Laboratorio final de Dynamics 365 Field Service'
+    title: 'Laboratorio 4.3: Laboratorio final de Dynamics 365 Field Service'
     module: 'Módulo 4: Aprender los fundamentos de Dynamics 365 Field Service'
 ---
 
-Módulo 4: Descubrir los fundamentos de Dynamics 365 Field Service
+Módulo 4: Aprender los fundamentos de Dynamics 365 Field Service
 ========================
 
 ## Laboratorio de prácticas 4.3: Laboratorio final de Dynamics 365 Field Service
@@ -61,13 +61,13 @@ Hace poco, un cliente empresarial, Active Transport, Inc., contactó con el equi
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 45 minutos
+  - **Tiempo estimado**: 45 minutos
 
 ## Instrucciones
 
 ## Ejercicio 1: Crear un caso y escalar a una orden de trabajo 
 
-### Tarea 1: Crear un registro de caso
+### Tarea 1: Crear un registro de caso
 
 1. Si aún no la ha abierto, abra la aplicación **Dynamics 365 Field Service**. 
 
@@ -79,19 +79,21 @@ Hace poco, un cliente empresarial, Active Transport, Inc., contactó con el equi
 
 	- **Título del caso:** Cámara dañada
 
-	- **Cliente:** Active Transport Inc.
+	- **Cliente:** Best For You Organics Company
 
 	- **Origen:** Teléfono
 
+	Guarde el registro.
+
 5. Seleccione la pestaña **Servicio de campo**
 
-6. En el campo **Tipo de incidente**, seleccione **Cámara dañada**.
+6. En el campo **Tipo de incidente**, seleccione **Cámara dañada**. (Crear nuevo)
 
 7. En la **Barra de comandos**, seleccione **Guardar y cerrar** para guardar y cerrar el registro. 
 
  
 
-### Tarea 2: Crear una orden de trabajo de forma manual
+### Tarea 2: Crear una orden de trabajo de forma manual
 
 Volveremos al registro de caso que ha creado más adelante. Ahora examinemos cómo crear un registro de orden de trabajo de forma manual. 
 
@@ -103,13 +105,17 @@ Volveremos al registro de caso que ha creado más adelante. Ahora examinemos có
 
 3. Complete los detalles de la orden de trabajo con lo siguiente:
 
-	- **Cuenta de servicio:** Brakes & Gears 
+	- **Cuenta de servicio:** Margie's Travel
 
-	- **Lista de precios:** Lista de precios predeterminada
+	- **Lista de precios:** Office 365 US (muestra)
 
-	- **Tipo de incidente principal**: Distribución
+	- **Tipo de orden de trabajo**: Servicio
 
 	- **Gravable:** No
+
+	Guarde el registro y asigne el tipo de incidente principal
+
+	- **Tipo de incidente principal**: Abandono (crear nuevo)
 
 4. Apúntese el número de la orden de trabajo para asegurarse de que trabaja con la orden de trabajo correcta más adelante. 
 
@@ -127,7 +133,7 @@ Volveremos al registro de caso que ha creado más adelante. Ahora examinemos có
 
  
 
-### Tarea 3: Generar una orden de trabajo a partir de un caso
+### Tarea 3: Generar una orden de trabajo a partir de un caso
 
 Escalar registros de casos es otra manera de crear órdenes de trabajo. En este caso, escalaremos el registro de caso de la cámara dañada que hemos creado anteriormente. 
 
@@ -141,41 +147,31 @@ Escalar registros de casos es otra manera de crear órdenes de trabajo. En este 
 
 4. Una vez se ha completado la creación de la orden de trabajo, haga clic en el botón **OK** en la ventana emergente para ver los detalles de orden de la trabajo. 
 
-5. Seleccione la pestaña **Servicios** y compruebe que los servicios **Inspeccionar salud del sistema** e **Inspeccionar rango de movimiento** se han agregado a la orden de trabajo. **NOTA:** Si no los ve de forma inmediata, pulse F5 para refrescar su pantalla. 
-
-6. Seleccione la pestaña **Tarea de servicio** y compruebe que se han agregado 4 tareas.
-
  
 
 Sus dos nuevas órdenes de trabajo están listas para ser programadas. 
 
 ## Ejercicio 2: Programar elementos con Dynamics 365 Field Service  
 
-### Tarea 1: Programar directamente a partir de una orden de trabajo
+### Tarea 1: Programar directamente a partir de una orden de trabajo
 
 1. En la navegación de la izquierda, seleccione **Tablero de programación**.
 
 2. En la parte superior derecha de la pantalla, establezca la experiencia **Nuevo tablero de programación** en **Activada**. 
 
-3. Escriba el nombre de su cuenta de usuario en el campo de búsqueda de **Buscar recursos**. (Debería mostrarse su registro de recurso).
+3. En el campo de búsqueda **Buscar recursos**, escriba Aidan Knaggs. 
 
 4. En la parte inferior de la pantalla, en el panel de requisitos, seleccione **Órdenes de trabajo sin programar**.  (Si no se muestra el panel de requisitos, haga clic en la flecha en la parte inferior de la pantalla para expandirlo). 
 
-5. Localice la orden de trabajo de **Active Transport** que ha creado desde el registro de caso. (Recuerde el número de la orden de trabajo). 
+5. Localice la orden de trabajo de **Munson’s Pickles** que ha creado desde el registro de caso. (Recuerde el número de la orden de trabajo). 
 
-6. Arrastre el registro de **Active Transport** y colóquelo en un hueco libre en su registro de usuario. 
+6. Arrastre el registro de **Munson’s Pickles** y colóquelo en un hueco libre en el registro de contacto de Aiden. 
 
 7. A veces tendrá que volver a programar una orden de trabajo debido a conflictos con los técnicos u otros elementos. Esto lo pueden hacer los distribuidores fácilmente desde el tablero de programación. 
 
-8. Haga clic en el cuadro de búsqueda de recursos del tablero de programación (ubicado justo encima de la columna del nombre del recurso), escriba **Brady** y localice la orden de trabajo programada para **Brady Hannon** más adelante hoy. 
-
-9. **Haga clic con el botón derecho** en el elemento programado. En el menú que aparece, seleccione **Reasignar**. Haga clic en el campo de búsqueda y seleccione su registro de recurso.
-
  
 
- 
-
-### Tarea 2: Programar con el tablero de programación
+### Tarea 2: Programar con el tablero de programación
 
 1. En la navegación de la izquierda, seleccione **Tablero de programación**.
 
@@ -185,7 +181,7 @@ Sus dos nuevas órdenes de trabajo están listas para ser programadas.
 
 4. Localice la orden de trabajo de **Active Transport** que ha creado desde el registro de caso. (Recuerde el número de la orden de trabajo). 
 
-5. Arrastre el registro de **Active Transport** y colóquelo en un hueco libre en su registro de usuario. 
+5. Arrastre el registro de **Active Transport** y colóquelo en un hueco libre en su registro de usuario. El texto aparecerá en verde si la franja horaria coincide con la franja preferida del cliente.
 
 6. A veces tendrá que volver a programar una orden de trabajo debido a conflictos con los técnicos u otros elementos. Esto lo pueden hacer los distribuidores fácilmente desde el tablero de programación. 
 

@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'Laboratorio 5.2: Administrar una oportunidad basada en proyecto'
+    title: 'Laboratorio 5.2: Administrar una oportunidad basada en proyecto'
     module: 'Módulo 5: Aprender los fundamentos de Dynamics 365 Project Operations'
 ---
 
-Módulo 5: Descubrir los fundamentos de Dynamics 365 Project Operations
+Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
 ========================
 
 ## Laboratorio de prácticas 5.2: Administrar una oportunidad basada en proyecto
@@ -27,7 +27,7 @@ Internamente, se centran en dos áreas clave:
 
 - **Clientes empresariales:** los comerciales para empresas se centran en clientes que necesitan una solución empresarial más especializada y a su medida. Para las ventas a empresas se suelen implicar varias ubicaciones con comunicación conjunta y son necesarios múltiples recursos para completar el proyecto. Estos ciclos de ventas suelen ser más largos y hay que movilizar a muchas más partes. 
 
-Es importante que todos los comerciales de la compañía ABC tengan las herramientas y guías necesarias independientemente de su área de enfoque para vender a sus clientes. 
+Es importante que todos los comerciales de la compañía ABC tengan las herramientas y guías necesarias independientemente de su área de enfoque para vender a sus clientes.  
 
 **Instalación del sistema:**
 
@@ -54,13 +54,13 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 20 minutos
+  - **Tiempo estimado**: 20 minutos
   
 ## Ejercicio 1: Administrar una oportunidad basada en proyecto 
 
 Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial basado en proyecto, utilizaremos la oportunidad para definir detalles del proyecto de alto nivel. Esto incluye definir productos y elementos de trabajo y también estimaciones de ventas. 
 
-### Tarea 1: Administrar una oportunidad de ventas 
+### Tarea 1: Administrar una oportunidad de ventas 
 
 1. En el panel izquierdo de la pantalla, seleccione **Oportunidades**. 
 
@@ -82,11 +82,11 @@ Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial b
 
 8. En la subcuadrícula del equipo de ventas, seleccione **Nueva conexión**. (Si no ve el botón de **Nueva conexión**, seleccione los **tres puntos verticales** y, del menú que aparece, seleccione **Nueva conexión**). 
 
-9. En el campo de **Búsqueda**, escriba el texto **System** y seleccione el **registro de usuario proporcionado por su instructor**. Una vez completado, haga clic en el botón **Agregar**. El administrador del sistema debería aparecer ahora en el equipo de ventas. Si no lo hace, seleccione el botón **Actualizar** de la Barra de comandos. 
+9. En el campo **Búsqueda**, escriba el texto **Sistema** y seleccione **Administrador del sistema**. Una vez completado, haga clic en el botón **Agregar**. El administrador del sistema debería aparecer ahora en el equipo de ventas. Si no lo hace, seleccione el botón **Actualizar** de la Barra de comandos. 
 
 10. En la subcuadrícula Competidores, seleccione los **tres puntos verticales**. En el menú que aparece, seleccione **Agregar competidor existente**. 
 
-11. Busque y seleccione **Coho Security**. (Si Coho Security no existe, seleccione **Nuevo registro** y después **Competidores**, si no, proceda al paso 15.)  
+11. Busque y seleccione **Coho Security**. (Si Coho Security no existe, seleccione **Nuevo registro** y después **Competidores**, si no, proceda al paso 15**.**).  
 
 12. En la creación rápida: En la pantalla **Competidor**, escriba **Coho Security - “sus iniciales”** en el campo **Nombre**.
 
@@ -94,7 +94,7 @@ Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial b
 
 14. Seleccione el registro de Coho Security que ha creado en el ejercicio anterior y seleccione el botón **Agregar**. 
 
-15. Haga clic para seleccionar la etapa **Desarrollar** en el flujo de proceso de negocio **Cliente potencial a oportunidad**. Establezca los pasos **Identificar partes interesadas** e **Identificar competidores** en **Completado**. 
+15. Seleccione la etapa **Desarrollar** en el flujo de proceso de negocio **Cliente potencial a oportunidad**. Establezca los pasos **Identificar partes interesadas** e **Identificar competidores** en **Completado**. 
 
 16. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Proponer**.
 

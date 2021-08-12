@@ -1,17 +1,17 @@
 ---
 lab:
-    title: 'Laboratorio 3.2: Crear y administrar casos en Dynamics 365 Customer Service'
+    title: 'Laboratorio 3.2: Crear y administrar casos en Dynamics 365 Customer Service'
     module: 'Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Descubrir los fundamentos de Dynamics 365 Customer Service
+Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
 ========================
 
 ## Laboratorio de prácticas 3.2: Crear y administrar casos en Dynamics 365 Customer Service
 
 ## Configuración del laboratorio
 
-  - **Tiempo estimado**: 10 minutos
+  - **Tiempo estimado**: 10 minutos
 
 ## Instrucciones
 
@@ -19,21 +19,21 @@ Módulo 3: Descubrir los fundamentos de Dynamics 365 Customer Service
 
 2. En el panel izquierdo de la pantalla, seleccione **Casos**. 
 
-3. En la **Barra de comandos**, haga clic en **Nuevo** para crear un nuevo registro de caso.
+3. En la **Barra de comandos**, haga clic en **Nuevo caso** para crear un nuevo registro de caso.
 
 4. Complete su nuevo registro de caso de la siguiente manera:
 
 	- **Título del caso:** Artículo ha llegado dañado - sus iniciales
 
-	- **Cliente:** Alpine Ski House (ejemplo)
+	- **Cliente:** Alpine Ski House
 
 	- **Origen:** Teléfono
 
 5. Haga clic en el botón **Guardar** para guardar el registro y dejarlo abierto. 
 
-6. En **Llamar en el proceso de caso**, seleccione la etapa **Identificar** y establezca **Dwayne Elijah** en el campo **Encontrar contacto**. 
+6. En **Llamar en el proceso de caso**, seleccione la etapa **Identificar** y establezca **Alfonso Albritton** en el campo **Encontrar contacto**. 
 
-7. Haga clic en la **X** de la ventana **Identificar** para cerrarla y poder continuar trabajando. 
+7. Haga clic en la **X** de la etapa **Identificar** para cerrar la ventana y poder seguir trabajando. 
 
 8. En la **Escala de tiempo del registro**, haga clic en el **icono +** para agregar una nueva actividad. 
 
@@ -41,7 +41,7 @@ Módulo 3: Descubrir los fundamentos de Dynamics 365 Customer Service
 
 10. En el campo **Asunto**, introduzca **Devolver llamada a Patrick - sus iniciales** y deje el resto de campos como están. 
 
-11. Haga clic en el botón **Guardar y cerrar**. 
+11. Seleccione el botón **Guardar y cerrar**. 
 
 12. En el **proceso de teléfono a caso**, haga clic en la etapa **Identificar**.
 
