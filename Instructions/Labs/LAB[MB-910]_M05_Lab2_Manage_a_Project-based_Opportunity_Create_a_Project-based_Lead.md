@@ -86,7 +86,7 @@ Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial b
 
 10. En la subcuadrícula Competidores, seleccione los **tres puntos verticales**. En el menú que aparece, seleccione **Agregar competidor existente**. 
 
-11. Busque y seleccione **Coho Security**. (Si Coho Security no existe, seleccione **Nuevo registro** y después **Competidores**, si no, proceda al paso 15****).  
+11. Busque y seleccione **Coho Security**. (Si Coho Security no existe, seleccione **Nuevo registro** y después **Competidores**, si no, proceda al paso 15**.**).  
 
 12. En la creación rápida: En la pantalla **Competidor**, escriba **Coho Security - “sus iniciales”** en el campo **Nombre**.
 

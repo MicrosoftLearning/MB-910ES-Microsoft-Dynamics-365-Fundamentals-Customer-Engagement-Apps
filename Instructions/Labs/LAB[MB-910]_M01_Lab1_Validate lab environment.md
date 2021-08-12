@@ -34,7 +34,7 @@ Ejercicio 1: Acceso a la aplicación Dynamics 365
 
 ### Tarea 2: Acceso a la aplicación Dynamics 365
 
-1.  Expanda el botón de cuadrícula del iniciador de aplicaciones de la parte superior izquierda de la pantalla, justo a la izquierda del **Centro de administración de Power Platform. Seleccione la aplicación Dynamics 365 **Marketing** para iniciarla.
+1.  Expanda el botón de cuadrícula del iniciador de aplicaciones de la parte superior izquierda de la pantalla, justo a la izquierda del **Centro de administración de Power Platform. Seleccione la aplicación Dynamics 365 Marketing** para iniciarla.
 
 2.  Explore el panel de navegación del lado izquierdo. El botón de la parte inferior del panel permite cambiar las áreas. Ahora mismo, está en el área **Marketing**. 
 

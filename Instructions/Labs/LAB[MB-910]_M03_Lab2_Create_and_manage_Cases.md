@@ -63,7 +63,7 @@ Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
 
 21. En la etapa **Resolver**, seleccione el botón **Finalizar** para completar el flujo del proceso. 
 
-22. En la **Barra de comandos **del caso, seleccione **Resolver caso**.
+22. En la **Barra de comandos** del caso, seleccione **Resolver caso**.
 
 23. En la ventana **Resolver caso**, establezca el campo **Resolución** en **Artículo de conocimiento**. 
 

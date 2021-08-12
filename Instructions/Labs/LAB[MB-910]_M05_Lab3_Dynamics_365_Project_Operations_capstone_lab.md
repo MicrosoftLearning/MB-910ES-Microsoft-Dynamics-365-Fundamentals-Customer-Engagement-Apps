@@ -94,7 +94,7 @@ En este ejercicio, creará un proyecto y definirá detalles relacionados con la 
 
 	- **Unidad de contratación:** Fabrikam US
 
-	- **Fecha de inicio estimada: ** Una semana a partir de hoy
+	- **Fecha de inicio estimada:** Una semana a partir de hoy
 
 	- **Coste del trabajo estimado:** 175 000 $
 
