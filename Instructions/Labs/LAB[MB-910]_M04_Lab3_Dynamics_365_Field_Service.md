@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 4.3: Laboratorio final de Dynamics 365 Field Service'
     module: 'Módulo 4: Aprender los fundamentos de Dynamics 365 Field Service'

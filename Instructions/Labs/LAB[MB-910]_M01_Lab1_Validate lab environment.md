@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 1.1: Validar el entorno de laboratorio'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'

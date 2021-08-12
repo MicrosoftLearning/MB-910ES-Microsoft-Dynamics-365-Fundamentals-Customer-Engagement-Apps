@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 2.3: Laboratorio final de Dynamics 365 Sales'
     module: 'Módulo 2: Aprender los fundamentos de Dynamics 365 Sales'

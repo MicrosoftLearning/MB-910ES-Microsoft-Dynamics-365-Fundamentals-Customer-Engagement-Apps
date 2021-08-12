@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 1.3: Administrar clientes y actividades'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'

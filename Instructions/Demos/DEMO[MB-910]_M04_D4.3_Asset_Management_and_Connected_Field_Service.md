@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'Demostración: Administración de activos y Connected Field Service'
     module: 'Módulo 4: Aprender los fundamentos de Dynamics 365 Customer Service'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 1.6: Crear un recorrido del cliente sencillo'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'

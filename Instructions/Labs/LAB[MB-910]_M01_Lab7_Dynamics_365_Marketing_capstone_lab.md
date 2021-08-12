@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'

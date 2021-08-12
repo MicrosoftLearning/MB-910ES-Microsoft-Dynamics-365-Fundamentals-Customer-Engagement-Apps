@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 1.2: Trabajar con aplicaciones de interacción con el cliente'
     module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'

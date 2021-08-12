@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratorio 5.1: Crear un cliente potencial basado en proyecto'
     module: 'Módulo 5: Aprender los fundamentos de Dynamics 365 Project Operations'
