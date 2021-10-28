@@ -22,26 +22,20 @@ Durante este ejercicio, verá que es muy fácil acceder a las diferentes aplicac
 
 En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones de Dynamics 365 Customer Engagement mediante la página de inicio de Dynamics 365. 
 
-1. En su navegador, vaya a **[https://home.dynamics.com](https://home.dynamics.com/)** Se mostrarán todas las aplicaciones a las que tiene acceso. 
+1.	En un explorador web, vaya a https://www.office.com/apps. 
 
-2. Para reducir el número de aplicaciones mostradas, seleccione el **icono de filtro** situado junto al botón Obtener más aplicaciones. 
+2.	Seleccione la pestaña Aplicaciones empresariales.  
 
-3. En **POR NOMBRE DE INSTANCIA**, seleccione **NINGUNO**. Y seleccione el entorno que desee aprovechar. 
+3.	En el cuadro de búsqueda, especifique el texto Sales Hub y seleccione la aplicación Sales Hub para abrirla.  
 
-4. Seleccione la **X** de la esquina superior derecha del **cuadro de filtro** para cerrarlo. 
+4. Cuando esté dentro de una aplicación, habrá diferentes áreas con las que podrá trabajar en función de lo que trate de hacer. Por ejemplo, la aplicación del centro de ventas contiene diferentes configuraciones de administración con las que puede trabajar. 
 
-5. Para localizar una aplicación específica, puede buscarla si selecciona el campo **Buscar mis aplicaciones**, en la parte izquierda de la pantalla. 
+5. En la parte inferior izquierda del panel de navegación, seleccione **Ventas** y cambie al área **Configuración de la aplicación**. Explore la configuración de la aplicación.
 
-6. Escriba el texto **Centro de ventas** y seleccione la aplicación **Centro de ventas** para abrirla. 
+6. Seleccione de nuevo el selector de área y cámbielo de **Configuración de la aplicación** a **Ventas**.
 
-7. Cuando esté dentro de una aplicación, habrá diferentes áreas con las que podrá trabajar en función de lo que trate de hacer. Por ejemplo, la aplicación del centro de ventas contiene diferentes configuraciones de administración con las que puede trabajar. 
+7. Si quiere cambiar de la aplicación de ventas a otra aplicación como Centro de servicio al cliente, seleccione el texto **Centro de ventas** en la parte superior izquierda de la pantalla junto al texto Dynamics 365. 
 
-8. En la parte inferior izquierda del panel de navegación, seleccione **Ventas** y cambie al área **Configuración de la aplicación**. Explore la configuración de la aplicación.
+8. Aparecerá la pantalla de aplicaciones, seleccione **Centro de servicio al cliente** y accederá a la aplicación Centro de servicio al cliente. 
 
-9. Seleccione de nuevo el selector de área y cámbielo de **Configuración de la aplicación** a **Ventas**.
-
-10. Si quiere cambiar de la aplicación de ventas a otra aplicación como Centro de servicio al cliente, seleccione el texto **Centro de ventas** en la parte superior izquierda de la pantalla junto al texto Dynamics 365. 
-
-11. Aparecerá la pantalla de aplicaciones, seleccione **Centro de servicio al cliente** y accederá a la aplicación Centro de servicio al cliente. 
-
-12. Seleccione el texto **Centro de servicio al cliente** en la parte superior para volver a la aplicación **Centro de ventas**. 
+9. Seleccione el texto **Centro de servicio al cliente** en la parte superior para volver a la aplicación **Centro de ventas**. 
